@@ -1,5 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["wyvern_parse",
-    "wyvern_parse"
-]
+members = ["wyvern_parse"]
