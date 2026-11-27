@@ -294,3 +294,7 @@ dependencies = [
  "chumsky",
  "logos",
 ]
+
+[[package]]
+name = "wyvern_storage"
+version = "0.1.0"
