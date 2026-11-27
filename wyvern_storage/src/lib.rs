@@ -14,4 +14,8 @@
 mod codec;
 pub mod column;
 pub mod error;
-pub mod tempral;
+pub mod temporal;
+pub mod types;
+
+
+
