@@ -1,0 +1,9 @@
+[package]
+name = "wyvern_engine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wyvern_parse = { path = "../wyvern_parse/" }
+wyvern_storage = { path = "../wyvern_storage/" }
+csv = "1"

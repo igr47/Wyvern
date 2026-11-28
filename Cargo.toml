@@ -2,5 +2,6 @@
 resolver = "3"
 members = [
     "wyvern_parse",
-    "wyvern_storage"
+    "wyvern_storage",
+    "wyvern_engine"
 ]
