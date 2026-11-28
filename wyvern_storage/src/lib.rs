@@ -13,6 +13,7 @@
 
 mod codec;
 pub mod column;
+pub mod database;
 pub mod error;
 mod file;
 pub mod table;
