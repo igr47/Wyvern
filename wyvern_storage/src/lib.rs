@@ -16,6 +16,7 @@ pub mod column;
 pub mod database;
 pub mod error;
 mod file;
+pub mod storage;
 pub mod table;
 pub mod temporal;
 pub mod types;
