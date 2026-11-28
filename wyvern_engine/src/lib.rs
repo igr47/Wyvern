@@ -18,5 +18,6 @@
 //! * `ddl`, `dml`, `meta`, `io`         statements and csv import 
 //! * `ctx`, `batch`, `result`           session state and data carriers
 
+pub mod cast;
 pub mod ctx;
 pub mod error;
