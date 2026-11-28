@@ -15,6 +15,7 @@ mod codec;
 pub mod column;
 pub mod error;
 mod file;
+pub mod table;
 pub mod temporal;
 pub mod types;
 
